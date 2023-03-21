@@ -1,0 +1,17 @@
+.list-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.content-container {
+  background-color: #ffffff;
+  display: flex;
+
+  width: 70%;
+}
+.course-image {
+  height: 350px;
+  width: 300px;
+}

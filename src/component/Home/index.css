@@ -1,0 +1,20 @@
+.nav-item {
+  background-color: #f1f5f9;
+  padding: 20px;
+}
+.logo {
+  height: 80px;
+  margin-left: 40px;
+}
+.heading {
+  font-family: 'Roboto';
+  color: #1e293b;
+  font-size: 30px;
+}
+.courses-container {
+  padding: 40px;
+}
+.course-list-container {
+  display: flex;
+  flex-wrap: wrap;
+}
